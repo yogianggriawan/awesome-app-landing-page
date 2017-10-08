@@ -10,7 +10,7 @@
 app:
   name: FastQuran # REQUIRED - Enter your app name
   ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  android_id: com.fastquran.app # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -25,8 +25,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Learning Qur'an Easier # Optional
+marketing_desc: FastQuran adalah sebuah aplikasi interaktif untuk memudahkan bagi siapa pun, anak-anak, remaja, hingga orang tua, yang hendak mempelajari bagaimana cara mengaji Al-Qur'an yang disusun secara sistematis mulai dari cara membaca benar sampai membaca indah. “Sebaik-baik kalian adalah yang mempelajari Al-Qur`an dan mengajarkannya.” [Al-Bukhari 5027]
 
 #
 # Social Links
